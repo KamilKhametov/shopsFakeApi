@@ -1,6 +1,67 @@
 [
   {
+    "sectionId": 1,
     "sectionTitle": "Для дома и дачи",
+    "sectionImage": "https://balconygardenweb-lhnfx0beomqvnhspx.netdna-ssl.com/wp-content/uploads/2020/02/1.-It-Improves-Indoor-Air-Quality1.jpg",
+    "sectionDesc": "Пусто)"
+  },
+  {
+    "sectionId": 2,
+    "sectionTitle": "На море",
+    "sectionImage": "https://balconygardenweb-lhnfx0beomqvnhspx.netdna-ssl.com/wp-content/uploads/2020/02/1.-It-Improves-Indoor-Air-Quality1.jpg",
+    "sectionDesc": "Пусто)"
+  },
+  {
+    "sectionId": 3,
+    "sectionTitle": "В путешествие",
+    "sectionImage": "https://balconygardenweb-lhnfx0beomqvnhspx.netdna-ssl.com/wp-content/uploads/2020/02/1.-It-Improves-Indoor-Air-Quality1.jpg",
+    "sectionDesc": "Пусто)"
+  },
+  {
+    "sectionId": 4,
+    "sectionTitle": "В кафе",
+    "sectionImage": "https://balconygardenweb-lhnfx0beomqvnhspx.netdna-ssl.com/wp-content/uploads/2020/02/1.-It-Improves-Indoor-Air-Quality1.jpg",
+    "sectionDesc": "Пусто)"
+  },
+  {
+    "sectionId": 5,
+    "sectionTitle": "На тренировки",
+    "sectionImage": "https://balconygardenweb-lhnfx0beomqvnhspx.netdna-ssl.com/wp-content/uploads/2020/02/1.-It-Improves-Indoor-Air-Quality1.jpg",
+    "sectionDesc": "Пусто)"
+  },
+  {
+    "sectionId": 6,
+    "sectionTitle": "В ресторан",
+    "sectionImage": "https://balconygardenweb-lhnfx0beomqvnhspx.netdna-ssl.com/wp-content/uploads/2020/02/1.-It-Improves-Indoor-Air-Quality1.jpg",
+    "sectionDesc": "Пусто)"
+  },
+  {
+    "sectionId": 7,
+    "sectionTitle": "На собеседование",
+    "sectionImage": "https://balconygardenweb-lhnfx0beomqvnhspx.netdna-ssl.com/wp-content/uploads/2020/02/1.-It-Improves-Indoor-Air-Quality1.jpg",
+    "sectionDesc": "Пусто)"
+  },
+  {
+    "sectionId": 8,
+    "sectionTitle": "В кино",
+    "sectionImage": "https://balconygardenweb-lhnfx0beomqvnhspx.netdna-ssl.com/wp-content/uploads/2020/02/1.-It-Improves-Indoor-Air-Quality1.jpg",
+    "sectionDesc": "Пусто)"
+  },
+  {
+    "sectionId": 9,
+    "sectionTitle": "На концерт",
+    "sectionImage": "https://balconygardenweb-lhnfx0beomqvnhspx.netdna-ssl.com/wp-content/uploads/2020/02/1.-It-Improves-Indoor-Air-Quality1.jpg",
+    "sectionDesc": "Пусто)"
+  },
+  {
+    "sectionId": 10,
+    "sectionTitle": "Для огорода",
+    "sectionImage": "https://balconygardenweb-lhnfx0beomqvnhspx.netdna-ssl.com/wp-content/uploads/2020/02/1.-It-Improves-Indoor-Air-Quality1.jpg",
+    "sectionDesc": "Пусто)"
+  },
+  {
+    "sectionId": 11,
+    "sectionTitle": "Для детей",
     "sectionImage": "https://balconygardenweb-lhnfx0beomqvnhspx.netdna-ssl.com/wp-content/uploads/2020/02/1.-It-Improves-Indoor-Air-Quality1.jpg",
     "sectionDesc": "Пусто)"
   }
