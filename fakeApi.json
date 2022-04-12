@@ -1,23 +1,23 @@
 
 [
         {
-           "categoryId": "1",
+           "id": "1",
            "name": "Пицца"
         },
         {
-           "categoryId": "2",
+           "id": "2",
            "name": "Комбо"
         },
         {
-           "categoryId": "3",
+           "id": "3",
            "name": "Десерты"
         },
         {
-           "categoryId": "4",
+           "id": "4",
            "name": "Напитки"
         },
         {
-           "categoryId": "5",
+           "id": "5",
            "name": "Корейская кухня"
         }
 ]
