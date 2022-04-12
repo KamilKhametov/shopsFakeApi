@@ -1,11 +1,23 @@
 
 [
         {
-           "categoryId": "21321",
-           "name": "Адвокаты"
+           "categoryId": "1",
+           "name": "Пицца"
         },
         {
-           "categoryId": "21322",
-           "name": "Юристы"
+           "categoryId": "2",
+           "name": "Комбо"
+        },
+        {
+           "categoryId": "3",
+           "name": "Десерты"
+        },
+        {
+           "categoryId": "4",
+           "name": "Напитки"
+        },
+        {
+           "categoryId": "5",
+           "name": "Корейская кухня"
         }
 ]
