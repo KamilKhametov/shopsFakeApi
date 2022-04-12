@@ -1,8 +1,10 @@
-[
-  {
-    "sectionId": "1",
-    "sectionTitle": "Для дома и дачи",
-    "sectionImage": "https://balconygardenweb-lhnfx0beomqvnhspx.netdna-ssl.com/wp-content/uploads/2020/02/1.-It-Improves-Indoor-Air-Quality1.jpg",
-    "sectionDesc": "Беспроводное зарядное устройство Ugreen Qi для iPhone 12 Pro X XS 8 XR Samsung S9 S10 S8 S10E"
-  }
-]
+	[
+        {
+           categoryId: "21321",
+           name: "Адвокаты"
+        },
+        {
+           categoryId: "21322",
+           name: "Юристы"
+        }
+  ]
