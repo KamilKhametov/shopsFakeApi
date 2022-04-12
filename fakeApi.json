@@ -1,10 +1,10 @@
 	[
         {
-           categoryId: "21321",
+           categoryId: 21321,
            name: "Адвокаты"
         },
         {
-           categoryId: "21322",
+           categoryId: 21322,
            name: "Юристы"
         }
-  ]
+	]
