@@ -1,0 +1,28 @@
+{
+    infoText: Это инфо текст,
+    products: [
+        {
+            id: 1,
+            name: Курица,
+            image: String,
+            quantity: 3,
+            measure: кг,
+            availbavleQuantity: 50,
+            price: 350,
+            priceWithDiscount: 330
+        },
+        {
+            id: 2,
+            name: Хлеб,
+            image: String,
+            quantity: 2,
+            measure: кг,
+            availbavleQuantity: 30,
+            price: 30,
+            priceWithDiscount: 25
+        }
+    ],
+    total: {
+        totalPrice: 1440
+    }
+}
