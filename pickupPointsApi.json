@@ -4,7 +4,7 @@
               "street": "Казбекова 157а",
               "pickupInfo": {
                   "day": "1",
-                  "openingTime": "9:00"
+                  "openingTime": "9:00",
                   "closingTime": "21:00"
                 }       
             },
@@ -12,7 +12,7 @@
               "street": "Буганова 17г",
               "pickupInfo": {
                   "day": "1",
-                  "openingTime": "10:00"
+                  "openingTime": "10:00",
                   "closingTime": "20:00"
                 }       
             }
